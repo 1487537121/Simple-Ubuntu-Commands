@@ -27,4 +27,4 @@ hostname
 sudo hostnamectl set-hostname name
 
 git克隆GitHub项目（提前定位文件夹）
-git clone address（eg：https://github.com/1487537121/Personal-Website-Reference.git）
+git clone address（eg：git clone https://github.com/1487537121/Personal-Website-Reference.git）
