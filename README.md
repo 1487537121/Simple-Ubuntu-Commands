@@ -1,30 +1,30 @@
 检查软件更新及更新所有软件
-sudo apt更新
-sudo apt升级
+sudo apt update
+sudo apt upgrade
 
 修复create_ap的WiFi问题
-sudo create_ap--fix-unmanaged
+sudo create_ap --fix-unmanaged
 
 显示文件文件及定位文件夹
-LS
-CD文件
+ls
+cd file
 
 查找文件
-查找-name名称
+find -name name
 
 新建文件夹
-mkdir名称
+mkdir name
 
 新建文本文件
-触摸名称.格式
+touch name.formate
 
 gcc编译器编译C语言程序及运行程序
-GCC名称.c-o名称
-./名称
+gcc name.c -o name
+./name
 
 查看服务器名称及修改名称
-主机名
-sudo hostnamectl设置主机名名称
+hostname
+sudo hostnamectl set-hostname name
 
 git克隆GitHub项目（提前定位文件夹）
-git克隆地址(例如：https://github.com/1487537121/Personal-Website-Reference.git)
+git clone address（eg：https://github.com/1487537121/Personal-Website-Reference.git）
